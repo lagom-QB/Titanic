@@ -6,6 +6,7 @@
 - What was the journey like?
 
 # Plan Of Action 📅
+- Split Passenger Name column to get first name, lastname and title.
 - Group the passengers into 3 classes according to their status (_determined by their titles_)
 - Group passengers according to where they boarded
 - Build the visualization map
