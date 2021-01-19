@@ -1,5 +1,5 @@
 # Titanic 🛳️
-[!_DataSource_](https://gist.githubusercontent.com/michhar/2dfd2de0d4f8727f873422c5d959fff5/raw/fa71405126017e6a37bea592440b4bee94bf7b9e/titanic.csv)
+[_DataSource_](https://gist.githubusercontent.com/michhar/2dfd2de0d4f8727f873422c5d959fff5/raw/fa71405126017e6a37bea592440b4bee94bf7b9e/titanic.csv)
 
 # Questions 🙋
 - Where did passengers embark? How many passengers embarked at each stop?
