@@ -7,7 +7,7 @@
 
 # Plan Of Action 📅
 - Split Passenger Name column to get first name, lastname and title.
-- Group the passengers into 3 classes according to their status (_determined by their titles_)
+- Group the passengers into 3 classes according to their status (_determined by their titles_) : High class, Middle Class, Lower Class.
 - Group passengers according to where they boarded
 - Build the visualization map
 
@@ -19,3 +19,4 @@
 - Tableau public
 - Procreate 
 
+[*Results*](https://github.com/lagom-QB/Titanic/blob/main/Titanic%20Journey.jpg)
