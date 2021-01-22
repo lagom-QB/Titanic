@@ -19,4 +19,5 @@
 - Tableau public
 - Procreate 
 
-[*Results*](https://github.com/lagom-QB/Titanic/blob/main/Titanic%20Journey.jpg)
+## Result
+[![Titanic-Journey.jpg](https://i.postimg.cc/v8CBkqXt/Titanic-Journey.jpg)](https://postimg.cc/c6M08cpv)
