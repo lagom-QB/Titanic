@@ -20,4 +20,4 @@
 - Procreate 
 
 ## Result
-[![Titanic-Journey.jpg](https://i.postimg.cc/v8CBkqXt/Titanic-Journey.jpg)](https://github.com/lagom-QB/Titanic/blob/main/README.md)
+[![Titanic-Journey.jpg](https://i.postimg.cc/v8CBkqXt/Titanic-Journey.jpg)](https://github.com/lagom-QB/Titanic/blob/main/Titanic%20Journey.jpg)
