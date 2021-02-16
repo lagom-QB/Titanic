@@ -1,4 +1,6 @@
 # Titanic 🛳️
+All -_well almost all_-  of us have heard of the titanic tragedy. With this project I'll like to explore the titanic dataset and answer some questions to quench some of my curiousity and do a literal maping.
+
 [_DataSource_](https://gist.githubusercontent.com/michhar/2dfd2de0d4f8727f873422c5d959fff5/raw/fa71405126017e6a37bea592440b4bee94bf7b9e/titanic.csv)
 
 # Questions 🙋
