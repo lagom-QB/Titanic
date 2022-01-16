@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Titanic 🛳️
+All -_well almost all_-  of us have heard of the titanic tragedy. With this project I'll like to explore the titanic dataset and answer some questions to quench some of my curiousity and do a literal maping.
 
-You can use the [editor on GitHub](https://github.com/lagom-QB/Titanic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[_DataSource_](https://gist.githubusercontent.com/michhar/2dfd2de0d4f8727f873422c5d959fff5/raw/fa71405126017e6a37bea592440b4bee94bf7b9e/titanic.csv)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Questions 🙋
+- Where did passengers embark? How many passengers embarked at each stop?
+- What was the journey like?
 
-### Markdown
+# Plan Of Action 📅
+- Split Passenger Name column to get first name, lastname and title.
+- Group the passengers into 3 classes according to their status (_determined by their titles_) : High class, Middle Class, Lower Class.
+- Group passengers according to where they boarded
+- Build the visualization map
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Note ❗
+- For the people who had no information on where they boarded, I assumed they boarded at Belfast; where the ship was built
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Tools used 🧰
+- Tableau public
+- Procreate 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lagom-QB/Titanic/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Result
+[![Titanic-Journey.jpg](https://i.postimg.cc/HLDnvbCd/Titanic-Final.jpg)](https://github.com/lagom-QB/Titanic/blob/main/Titanic_Final.jpg)
